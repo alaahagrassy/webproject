@@ -1,0 +1,404 @@
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Graduation_project3.dll.config
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Graduation_project3.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Graduation_project3.pdb
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\csc.exe
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\csc.exe.config
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\csc.rsp
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\csi.exe
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\csi.exe.config
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\csi.rsp
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.AppContext.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.Console.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.Net.Http.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\vbc.exe
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\vbc.exe.config
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\vbc.rsp
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Antlr3.Runtime.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\EntityFramework.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\EntityFramework.SqlServer.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.Owin.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.Owin.Security.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Newtonsoft.Json.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Owin.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Net.Http.Formatting.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Web.Helpers.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Web.Http.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Web.Http.Owin.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Web.Http.WebHost.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Web.Mvc.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Web.Optimization.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Web.Razor.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Web.WebPages.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\WebGrease.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Newtonsoft.Json.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Net.Http.Formatting.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Web.Helpers.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Web.Http.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Web.Http.WebHost.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Web.Mvc.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Web.Optimization.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Web.Razor.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Web.WebPages.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Antlr3.Runtime.pdb
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\EntityFramework.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\EntityFramework.SqlServer.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.Owin.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.Owin.Security.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\System.Web.Http.Owin.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\obj\Debug\Graduation_project3.csprojAssemblyReference.cache
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\obj\Debug\Graduation_project3.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\obj\Debug\Graduation_project3.csproj.CopyComplete
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\obj\Debug\Graduation_project3.dll
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\obj\Debug\Graduation_project3.pdb
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialCreate.resources
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\obj\Debug\Graduation_project3.csproj.GenerateResource.cache
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialMigration.resources
+C:\Users\Mohamed Hagrassy\source\repos\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialMigrations.resources
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Graduation_project3.dll.config
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Graduation_project3.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Graduation_project3.pdb
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\csc.exe
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\csc.exe.config
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\csc.rsp
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\csi.exe
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\csi.exe.config
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\csi.rsp
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.AppContext.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.Collections.Immutable.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.Console.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.Globalization.Calendars.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.IO.Compression.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.IO.FileSystem.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.Net.Http.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.Net.Sockets.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.ValueTuple.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.Xml.XPath.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\vbc.exe
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\vbc.exe.config
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\vbc.rsp
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\VBCSCompiler.exe
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\roslyn\VBCSCompiler.exe.config
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Antlr3.Runtime.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\EntityFramework.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\EntityFramework.SqlServer.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.Owin.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.Owin.Security.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.Owin.Security.Google.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.Web.Infrastructure.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Newtonsoft.Json.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Owin.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Net.Http.Formatting.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.Cors.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.Helpers.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.Http.Cors.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.Http.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.Http.Owin.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.Http.WebHost.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.Mvc.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.Optimization.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.Razor.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.WebPages.Deployment.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.WebPages.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.WebPages.Razor.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\WebGrease.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.Http.Cors.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Newtonsoft.Json.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Net.Http.Formatting.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.Helpers.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.Http.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.Http.WebHost.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.Mvc.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.Optimization.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.Razor.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.WebPages.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.WebPages.Deployment.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.WebPages.Razor.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Antlr3.Runtime.pdb
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\EntityFramework.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\EntityFramework.SqlServer.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.Owin.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.Owin.Security.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.Owin.Security.Google.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\System.Web.Http.Owin.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.csprojResolveAssemblyReference.cache
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialCreate.resources
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialMigration.resources
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialMigrations.resources
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.csproj.GenerateResource.Cache
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.dll
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.pdb
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialMigrations1.resources
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialMigrations2.resources
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialMigrations3.resources
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialMigrations4.resources
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialMigrations5.resources
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialMigrations6.resources
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialMigrations7.resources
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialMigrations8.resources
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialMigrations9.resources
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialMigrations10.resources
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialMigrations11.resources
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialMigrations12.resources
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialMigrations13.resources
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialMigarations.resources
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialMigarations1.resources
+D:\Data\work\Level Four\Graduation Project\BLOOD_LIFE\BackEnd\Graduation_project3\obj\Debug\Graduation_project3.Migrations.InitialMigrations14.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.csprojAssemblyReference.cache
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialCreate.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigration.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations1.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations2.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations3.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations4.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations5.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations6.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations7.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations8.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations9.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations10.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations11.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations12.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations13.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigarations.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigarations1.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations14.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.csproj.GenerateResource.cache
+D:\New folder (4)\obj\Debug\Graduation_project3.csproj.CoreCompileInputs.cache
+D:\New folder (4)\obj\Debug\Graduation_project3.dll
+D:\New folder (4)\obj\Debug\Graduation_project3.pdb
+D:\New folder (4)\bin\Graduation_project3.dll.config
+D:\New folder (4)\bin\Graduation_project3.dll
+D:\New folder (4)\bin\Graduation_project3.pdb
+D:\New folder (4)\bin\roslyn\csc.exe
+D:\New folder (4)\bin\roslyn\csc.exe.config
+D:\New folder (4)\bin\roslyn\csc.rsp
+D:\New folder (4)\bin\roslyn\csi.exe
+D:\New folder (4)\bin\roslyn\csi.exe.config
+D:\New folder (4)\bin\roslyn\csi.rsp
+D:\New folder (4)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder (4)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder (4)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\New folder (4)\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder (4)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\New folder (4)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder (4)\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder (4)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\New folder (4)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\New folder (4)\bin\roslyn\Microsoft.Managed.Core.targets
+D:\New folder (4)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder (4)\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\New folder (4)\bin\roslyn\System.AppContext.dll
+D:\New folder (4)\bin\roslyn\System.Collections.Immutable.dll
+D:\New folder (4)\bin\roslyn\System.Console.dll
+D:\New folder (4)\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\New folder (4)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\New folder (4)\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\New folder (4)\bin\roslyn\System.Globalization.Calendars.dll
+D:\New folder (4)\bin\roslyn\System.IO.Compression.dll
+D:\New folder (4)\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\New folder (4)\bin\roslyn\System.IO.FileSystem.dll
+D:\New folder (4)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\New folder (4)\bin\roslyn\System.Net.Http.dll
+D:\New folder (4)\bin\roslyn\System.Net.Sockets.dll
+D:\New folder (4)\bin\roslyn\System.Reflection.Metadata.dll
+D:\New folder (4)\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\New folder (4)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\New folder (4)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\New folder (4)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\New folder (4)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\New folder (4)\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\New folder (4)\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\New folder (4)\bin\roslyn\System.ValueTuple.dll
+D:\New folder (4)\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\New folder (4)\bin\roslyn\System.Xml.XmlDocument.dll
+D:\New folder (4)\bin\roslyn\System.Xml.XPath.dll
+D:\New folder (4)\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\New folder (4)\bin\roslyn\vbc.exe
+D:\New folder (4)\bin\roslyn\vbc.exe.config
+D:\New folder (4)\bin\roslyn\vbc.rsp
+D:\New folder (4)\bin\roslyn\VBCSCompiler.exe
+D:\New folder (4)\bin\roslyn\VBCSCompiler.exe.config
+D:\New folder (4)\bin\Antlr3.Runtime.dll
+D:\New folder (4)\bin\EntityFramework.dll
+D:\New folder (4)\bin\EntityFramework.SqlServer.dll
+D:\New folder (4)\bin\Microsoft.AspNet.Identity.Core.dll
+D:\New folder (4)\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\New folder (4)\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\New folder (4)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder (4)\bin\Microsoft.Owin.dll
+D:\New folder (4)\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\New folder (4)\bin\Microsoft.Owin.Security.Cookies.dll
+D:\New folder (4)\bin\Microsoft.Owin.Security.dll
+D:\New folder (4)\bin\Microsoft.Owin.Security.Facebook.dll
+D:\New folder (4)\bin\Microsoft.Owin.Security.Google.dll
+D:\New folder (4)\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\New folder (4)\bin\Microsoft.Owin.Security.OAuth.dll
+D:\New folder (4)\bin\Microsoft.Owin.Security.Twitter.dll
+D:\New folder (4)\bin\Microsoft.Web.Infrastructure.dll
+D:\New folder (4)\bin\Newtonsoft.Json.dll
+D:\New folder (4)\bin\Owin.dll
+D:\New folder (4)\bin\System.Net.Http.Formatting.dll
+D:\New folder (4)\bin\System.Web.Cors.dll
+D:\New folder (4)\bin\System.Web.Helpers.dll
+D:\New folder (4)\bin\System.Web.Http.Cors.dll
+D:\New folder (4)\bin\System.Web.Http.dll
+D:\New folder (4)\bin\System.Web.Http.Owin.dll
+D:\New folder (4)\bin\System.Web.Http.WebHost.dll
+D:\New folder (4)\bin\System.Web.Mvc.dll
+D:\New folder (4)\bin\System.Web.Optimization.dll
+D:\New folder (4)\bin\System.Web.Razor.dll
+D:\New folder (4)\bin\System.Web.WebPages.Deployment.dll
+D:\New folder (4)\bin\System.Web.WebPages.dll
+D:\New folder (4)\bin\System.Web.WebPages.Razor.dll
+D:\New folder (4)\bin\WebGrease.dll
+D:\New folder (4)\bin\System.Web.Http.Cors.xml
+D:\New folder (4)\bin\Newtonsoft.Json.xml
+D:\New folder (4)\bin\System.Net.Http.Formatting.xml
+D:\New folder (4)\bin\System.Web.Helpers.xml
+D:\New folder (4)\bin\System.Web.Http.xml
+D:\New folder (4)\bin\System.Web.Http.WebHost.xml
+D:\New folder (4)\bin\System.Web.Mvc.xml
+D:\New folder (4)\bin\System.Web.Optimization.xml
+D:\New folder (4)\bin\System.Web.Razor.xml
+D:\New folder (4)\bin\System.Web.WebPages.xml
+D:\New folder (4)\bin\System.Web.WebPages.Deployment.xml
+D:\New folder (4)\bin\System.Web.WebPages.Razor.xml
+D:\New folder (4)\bin\Antlr3.Runtime.pdb
+D:\New folder (4)\bin\EntityFramework.xml
+D:\New folder (4)\bin\EntityFramework.SqlServer.xml
+D:\New folder (4)\bin\Microsoft.AspNet.Identity.Core.xml
+D:\New folder (4)\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\New folder (4)\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\New folder (4)\bin\Microsoft.Owin.xml
+D:\New folder (4)\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\New folder (4)\bin\Microsoft.Owin.Security.xml
+D:\New folder (4)\bin\Microsoft.Owin.Security.Facebook.xml
+D:\New folder (4)\bin\Microsoft.Owin.Security.Cookies.xml
+D:\New folder (4)\bin\Microsoft.Owin.Security.Google.xml
+D:\New folder (4)\bin\Microsoft.Owin.Security.Twitter.xml
+D:\New folder (4)\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\New folder (4)\bin\Microsoft.Owin.Security.OAuth.xml
+D:\New folder (4)\bin\System.Web.Http.Owin.xml
+D:\New folder (4)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder (4)\obj\Debug\Graduation_project3.csproj.CopyComplete
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations15.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations16.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations17.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations18.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations19.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations20.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations21.resources
+D:\New folder (4)\obj\Debug\Graduation_project3.Migrations.InitialMigrations22.resources
